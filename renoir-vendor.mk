@@ -482,6 +482,7 @@ PRODUCT_PACKAGES += \
     libAF \
     libBlinkStub \
     libFlickerDet \
+    libQnnHtpStub \
     libSNPE \
     lib_sr_models \
     libaidenoiser \
